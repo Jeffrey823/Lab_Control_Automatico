@@ -1,5 +1,7 @@
 # Proyecto 2: Routh-Hurwitz y Lugar de las Raíces
 
+- Estudiante: Jeffrey Salas | Carné: 2020186279
+
 El script "proyecto2" se encuentra en la carpeta "script".
 
 ## Instrucciones
